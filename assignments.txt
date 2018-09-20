@@ -1,0 +1,10 @@
+Java Beginer assignments:
+1. Write a Program, to read,print, reverse a string.
+2. Write a Class "Shape", That has a name, and has a method area.
+3.
+
+
+Assignments:
+1. Implement a Banking system in java, A bank has Users of type employees and
+customers, employees can open a savings/current account with the bank for an user.
+A User can deposit/withdraw/FD/over-draw.
